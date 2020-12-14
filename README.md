@@ -1,4 +1,4 @@
-### Hi there 👋. my name is ali(or coding_eagle) and I am a full-stack web developer and I'm based in turkey. my passion towards programming started when I was 16. but I didn't have the chance to really try it. I started to learn programming non-stop from when I was 18 until today. these are some of the technologies that I've worked with a lot:
+### Hi there 👋. my name is ali(or coding_eagle) and I am a full-stack web developer and I'm based in turkey. my passion towards programming started when I was 16. but I didn't have the chance to really try it. I started to learn programming non-stop from when I was 18 until today (roughly 3 years). these are some of the technologies that I've worked with a lot:
 
 - php
 - mysql
