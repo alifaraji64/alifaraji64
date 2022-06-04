@@ -3,7 +3,7 @@
 
 - php
 - mysql
-- firebase
+- flutter
 - javascript
 - vuejs
 - react
