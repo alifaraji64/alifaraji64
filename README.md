@@ -9,8 +9,8 @@
 #### a little bit more about me:
 - :computer: learning about different technologies and different topics of programming is a passion of mine
 - :iphone: currently I am doing freelancing for my clients you can get in touch with me via [fiverr](https://www.fiverr.com/alifaraji990)
-- :boy: checkout my PORTFOLIO website for more. [click](https://www.determined-curran-6ac7d8.netlify.app)
-- :snowflake: one of my next goals is to learn pentesting and ethical hacking
+- :boy: checkout my PORTFOLIO website for more. [click](https://determined-curran-6ac7d8.netlify.app)
+- :snowflake: currently I'm learning web3 and trying to combine it with vue and flutter
 - :runner: beside programming I also love to travel and exercise
 
 
